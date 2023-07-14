@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BehavioralDP/BehavioralDP.iml" filepath="$PROJECT_DIR$/BehavioralDP/BehavioralDP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CreationalDP/CreationalDP.iml" filepath="$PROJECT_DIR$/CreationalDP/CreationalDP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design_Patterns-Java.iml" filepath="$PROJECT_DIR$/Design_Patterns-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StructuralDP/StructuralDP.iml" filepath="$PROJECT_DIR$/StructuralDP/StructuralDP.iml" />
+    </modules>
+  </component>
+</project>
